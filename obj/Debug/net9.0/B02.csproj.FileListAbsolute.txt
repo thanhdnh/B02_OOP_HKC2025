@@ -1,0 +1,14 @@
+/Users/hoangthanh/OOP_2025/B02/bin/Debug/net9.0/B02
+/Users/hoangthanh/OOP_2025/B02/bin/Debug/net9.0/B02.deps.json
+/Users/hoangthanh/OOP_2025/B02/bin/Debug/net9.0/B02.runtimeconfig.json
+/Users/hoangthanh/OOP_2025/B02/bin/Debug/net9.0/B02.dll
+/Users/hoangthanh/OOP_2025/B02/bin/Debug/net9.0/B02.pdb
+/Users/hoangthanh/OOP_2025/B02/obj/Debug/net9.0/B02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoangthanh/OOP_2025/B02/obj/Debug/net9.0/B02.AssemblyInfoInputs.cache
+/Users/hoangthanh/OOP_2025/B02/obj/Debug/net9.0/B02.AssemblyInfo.cs
+/Users/hoangthanh/OOP_2025/B02/obj/Debug/net9.0/B02.csproj.CoreCompileInputs.cache
+/Users/hoangthanh/OOP_2025/B02/obj/Debug/net9.0/B02.dll
+/Users/hoangthanh/OOP_2025/B02/obj/Debug/net9.0/refint/B02.dll
+/Users/hoangthanh/OOP_2025/B02/obj/Debug/net9.0/B02.pdb
+/Users/hoangthanh/OOP_2025/B02/obj/Debug/net9.0/B02.genruntimeconfig.cache
+/Users/hoangthanh/OOP_2025/B02/obj/Debug/net9.0/ref/B02.dll
